@@ -1,2 +1,2 @@
 # Online-Classroom
-This is a simple example of online classroom that we can have a meeting room using Twilio and react js
+This is a simple example of online classroom that we can have a meeting room using Twilio and react js. To implement it, we have used .net core API to make a connection between some data from SQL server database. Moreover, to implement user authentication, we use Firebase authentication system. One of the important sections in this project is Twilio and to implement this section we have used Express js to tracking users video. We can use another programmable communication tools like Zoom or Skyoe, but I prefer to use Twilio. 
