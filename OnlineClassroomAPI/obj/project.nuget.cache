@@ -1,0 +1,182 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bbdr+2NsIRNY7cigTMnoRgVENG6xsmXptyxFJwpELNI5SIVE4MwEYrut+fmoLkWeGqzWJvgIJLVCKvKexomT5A==",
+  "success": false,
+  "projectFilePath": "H:\\Tutorial\\ReactJs_Text_tutorial\\Udemy\\React\\ClassroomApp\\API\\OnlineClassroomAPI\\OnlineClassroomAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vahid\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.1\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.1.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.1\\microsoft.entityframeworkcore.5.0.1.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.1\\microsoft.entityframeworkcore.design.5.0.1.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.1\\microsoft.entityframeworkcore.relational.5.0.1.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.1\\microsoft.entityframeworkcore.sqlserver.5.0.1.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.1\\microsoft.entityframeworkcore.tools.5.0.1.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0). Package Microsoft.EntityFrameworkCore 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0). Package Microsoft.EntityFrameworkCore.SqlServer 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AutoMapper.Extensions.Microsoft.DependencyInjection 11.0.0 is not compatible with net40 (.NETFramework,Version=v4.0). Package AutoMapper.Extensions.Microsoft.DependencyInjection 11.0.0 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0). Package Microsoft.EntityFrameworkCore.Design 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Cors 2.2.0 is not compatible with net40 (.NETFramework,Version=v4.0). Package Microsoft.AspNetCore.Cors 2.2.0 supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "Microsoft.AspNetCore.Cors",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0). Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.1 supports:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Relational 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0). Package Microsoft.EntityFrameworkCore.Relational 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AutoMapper 11.0.1 is not compatible with net40 (.NETFramework,Version=v4.0). Package AutoMapper 11.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0). Package Microsoft.EntityFrameworkCore.Tools 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package Microsoft.EntityFrameworkCore 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package Microsoft.EntityFrameworkCore.SqlServer 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AutoMapper.Extensions.Microsoft.DependencyInjection 11.0.0 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package AutoMapper.Extensions.Microsoft.DependencyInjection 11.0.0 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package Microsoft.EntityFrameworkCore.Design 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Cors 2.2.0 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package Microsoft.AspNetCore.Cors 2.2.0 supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "Microsoft.AspNetCore.Cors",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.1 supports:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Relational 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package Microsoft.EntityFrameworkCore.Relational 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package AutoMapper 11.0.1 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package AutoMapper 11.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 5.0.1 is not compatible with net40 (.NETFramework,Version=v4.0) / win7-x86. Package Microsoft.EntityFrameworkCore.Tools 5.0.1 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0/win7-x86"
+      ]
+    }
+  ]
+}
